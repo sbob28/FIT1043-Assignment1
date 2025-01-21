@@ -1,9 +1,6 @@
 
 # Assignment Title
 
-**Author:** Srividya Bobba  
-**Date:** January 2025  
-
 ## Overview
 This Jupyter Notebook contains code and analysis for the given assignment. The project involves:
 
